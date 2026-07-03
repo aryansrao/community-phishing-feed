@@ -1,0 +1,8 @@
+{
+  "version": 1,
+  "updated": "2026-07-04T00:00:00Z",
+  "hosts": {
+    "secure-paypal.account-verify.tk": { "percent": 92, "reports": 40 },
+    "login-microsoft.verify-account.cf": { "percent": 100, "reports": 12 }
+  }
+}
